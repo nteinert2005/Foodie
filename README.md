@@ -7,3 +7,9 @@ Foodie is a dynamically controlled NextJS template powered by Notion.io. Using t
 This section will be improved in the future with a full write up
 
 ## Components We Built:
+
+- [x] Navbar
+- [x] Carousel - Featured Posts
+- [x] Carousel - Newest Posts
+- [ ] Grid view of Posts
+- [ ] Sidebar Options
