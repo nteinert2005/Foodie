@@ -1,0 +1,60 @@
+{
+  "blogName": "Lemons & Limes",
+  "blogDescription": "A food blog powered by NextJS",
+  "inspiration": "https://preview.themeforest.net/item/lemon-limes-food-blog-wordpress-theme/full_screen_preview/33905464?_ga=2.24511422.568461713.1697124530-1139025348.1697124530",
+  "database": "https://www.notion.so/studio617/3910f581fc2748aeb81420fcaeda315a?v=a020c048a27c4928a2fdd23c49d75c57",
+  "colors": {
+    "backgroundColor": "#111111",
+    "navColor": "#000000",
+    "accentColor": "#F99F6F"
+  },
+  "navigation": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "Recipes",
+      "url": "/recipes"
+    },
+    {
+      "name": "Appetizers",
+      "url": "/appetizers"
+    },
+    {
+      "name": "About",
+      "url": "/about"
+    },
+    {
+      "name": "Pages",
+      "url": "/pages"
+    },
+    {
+      "name": "Courses",
+      "url": "/courses"
+    },
+    {
+      "name": "Shop",
+      "url": "/shop"
+    },
+    {
+      "name": "Purchase",
+      "url": "/purchase"
+    }
+  ],
+  "homePageLayout": [
+    {
+      "component": "Navbar"
+    },
+    {
+      "component": "FeaturedPosts",
+      "settings": "Featured"
+    },
+    {
+      "component": "Categories"
+    },
+    {
+      "component": "LatestGrid"
+    }
+  ]
+}
